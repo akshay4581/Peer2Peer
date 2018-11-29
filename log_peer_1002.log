@@ -1,0 +1,42 @@
+2018-11-28 18:43:11 : Peer 1002is connected to1003
+2018-11-28 18:43:12 : Peer 1002is connected to1001
+2018-11-28 18:43:15 : Peer 1002Choke1003
+2018-11-28 18:43:16 : Peer 1002unchoked1001
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 7
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 7
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 10
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 10
+2018-11-28 18:43:16 : Peer 1002interested from1003
+2018-11-28 18:43:16 : Peer 1002interested from1003
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 8
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 8
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 9
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 9
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 0
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 0
+2018-11-28 18:43:16 : Peer 1002interested from1003
+2018-11-28 18:43:16 : Peer 1002interested from1003
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 6
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 6
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 1
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 1
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 3
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 3
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 2
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 2
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 5
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 5
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 12
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 12
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 4
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 4
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 11
+2018-11-28 18:43:16 : Peer 1002 received the 'have' message from 1003for the piece 11
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 13
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 13
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 15
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 15
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 14
+2018-11-28 18:43:17 : Peer 1002 received the 'have' message from 1003for the piece 14
+2018-11-28 18:43:17 : Peer 1002 Complete file downloaded
+2018-11-28 18:43:17 : Peer 1002 Complete file downloaded
